@@ -1,4 +1,4 @@
-# Lab 0: Getting to Know You
+# Getting to Know You
 
 Welcome! I'm excited to have you in class and am looking forward to getting to
 know you over the course of the semester. This first lab assignment has three
