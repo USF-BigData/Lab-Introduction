@@ -1,14 +1,13 @@
 # Getting to Know You
 
 Welcome! I'm excited to have you in class and am looking forward to getting to
-know you over the course of the semester. This first lab assignment has three
+know you over the course of the semester. This first lab assignment has two
 goals:
 
 * For you to tell me a little bit more about yourself
 * Testing out the assignment submission process
-* Getting started on the course discussion board
 
-## Part I: Introduction
+## Introduction
 
 Let's get started! To submit your responses, *edit this document* and write in
 the space provided. Note: apart from
@@ -32,21 +31,3 @@ username with your USF username).
    here.
 
 (replace this with your response)
-
-5. If you are **not** currently registered for the class, please explain your
-   situation below:
-
-(replace this with your response)
-
-## Part II: Discussion Board
-
-That wasn't too bad, was it? The next part of this lab is to set up your account on the discussion board. Please visit:
-
-https://cs677.sigpipe.io
-
-Your account should already be set up:
-
-Username: (USF Username)  
-Password: (Your USF Student ID number -- the **full** thing, starting with '20')  
-
-Find the "Lab 0" thread there and follow the directions to finish the lab. Thanks, and looking forward to a great semester!
