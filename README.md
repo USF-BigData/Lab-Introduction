@@ -1,33 +1,33 @@
-# Getting to Know You
+# Lab 0: Getting to Know You
 
-Welcome! I'm excited to have you in class and am looking forward to getting to
-know you over the course of the semester. This first lab assignment has two
-goals:
+Please see `lab0.go` for instructions.
 
-* For you to tell me a little bit more about yourself
-* Testing out the assignment submission process
+You will need a Go compiler to complete this assignment. There are downloadable
+packages available at https://go.dev, and you should also be able to install
+via your OS or 3rd party package manager (e.g., `brew` on macOS).
 
-## Introduction
+## Example Output
 
-Let's get started! To submit your responses, *edit this document* and write in
-the space provided. Note: apart from
-your USF username, all the questions are private and **completely optional**.
+After you fill out the information in `lab0.go`, you can run it like this:
 
-1. USF Username (required): (replace this with your response)
+```
+username@somewhere$ go run lab0.go
 
-(Please make sure you enter the previous answer on the *same line* as the
-question. This way our script will be able to automatically link your GitHub
-username with your USF username).
+Username:       mmalensek
+Preferred:      Matthew
+Pronouns:       he/him/his
+-------------------------------------
+About me:
+        I am originally from Glenwood Springs, Colorado, a town with more
+        bears than people (I actually made that up, don't Google it). In
+        my free time, I like to drink coffee and listen to music.
 
-2. Preferred Pronouns (he/his, she/her, they/their, ze/zir, etc.): (replace this with your response)
+        In class, I enjoy making bad jokes. FYI: they don't get any better
+        as the semester goes on.
 
-3. Preferred Name/Nickname: (replace this with your response)
+        I am not serious about many things, but I am VERY serious about
+        making this class a good experience for you. Please reach out if
+        you need anything at any time. Let's have a great semester!
+```
 
-4. Tell me something about yourself (if you want), and anything I can do to
-   help you succeed this semester. This can include things that help me
-   accommodate your learning a bit better (e.g., "I commute in from Sacramento
-   every day in a horse-drawn carriage, so sometimes I might be a bit late") or
-   if you'd like to stop by and chat about something feel free to let me know
-   here.
-
-(replace this with your response)
+Once you are happy with the output, commit your changes to finish the lab. NOTE: you are only required to provide your USF username; the rest is optional.
